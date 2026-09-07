@@ -1,0 +1,28 @@
+/Users/arturin/Documents/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/arturin/Documents/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/arturin/Documents/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/arturin/Documents/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/arturin/Documents/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/arturin/Documents/UwU/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/arturin/Documents/2do semestre/Fundamentos de Programación/UwU/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
